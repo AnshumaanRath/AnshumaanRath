@@ -13,24 +13,34 @@
 
 ---
 
-## 💼 Notable Projects
+## 💼 Technical Experience
+
+### ☁️ AICTE - AWS Academy  
+- Learned AWS core services like EC2, S3, RDS, CloudWatch  
+- Designed scalable system architectures using CloudFormation  
+- Focused on cost optimization, scalability, and monitoring  
+
+### 👨‍🏫 Flip Educator – C Programming  
+- Taught C fundamentals to 50+ first-year students  
+- Covered data structures, algorithms, and memory management  
+- Received excellent feedback for interactive and clear teaching style  
+
+---
+
+## 🚀 Notable Projects
 
 | Project | Description |
 |--------|-------------|
 | 🛒 **E-Commerce App (Monolithic to Microservices)** | Built a basic Spring Boot app with MySQL. Plans to migrate to microservices architecture. |
 | 📊 **AWS Cloud Architectures** | Designed scalable cloud infrastructure using EC2, S3, RDS, Auto Scaling, and CloudWatch. |
-| 📚 **Flip Educator in C** | Taught C programming to 50+ students, covering fundamentals, data structures, and memory management. |
-
-> Want to collaborate or learn more? Feel free to connect!
 
 ---
 
-## 🏆 Achievements & Certifications
+## 🏆 Certifications
 
-- 🥇 **Flip Educator, C Programming** – Taught over 50 juniors with engaging methods  
 - ☁️ **AICTE Cloud Virtual Internship** – Completed AWS-based cloud projects  
-- 🛠️ **AWS Architecting Badge** – Skilled in building secure and scalable cloud solutions  
-- 📋 **Agile Methodology Certification** – Strong grasp on Agile for project efficiency  
+- 🛠️ **AWS Architecting Badge** – Skilled in designing secure and scalable AWS solutions  
+- 📋 **Agile Methodology Certification** – Strong understanding of Agile practices and workflows  
 
 ---
 
